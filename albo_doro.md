@@ -6,7 +6,7 @@ permalink: /albo_doro/
 ## Classifica calciatori per goal realizzati
 [MASCHILE 🍻](/calciosplash_lizzana/albo/maschile/) | [FEMMINILE 🍸](/calciosplash_lizzana/femminile/)
 
-## Vincitori Torneo
+## Vincitori Torneo 🏆
 
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
@@ -29,7 +29,7 @@ permalink: /albo_doro/
 |**Edizione 2005** | [The Timesplitters](/calciosplash_lizzana/squadra/timesplitters)| [Slipeghe](/calciosplash_lizzana/squadra/slipeghe)|
 |**Edizione 2004** | [Toto' Sapore](/calciosplash_lizzana/squadra/toto_sapore)| [Slipeghe](/calciosplash_lizzana/squadra/slipeghe)|
 
-## Miglior giocatore
+## Miglior giocatore🥇
 
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
@@ -50,7 +50,7 @@ permalink: /albo_doro/
 |**Edizione 2007** | [Pomarolli Edoardo](/calciosplash_lizzana/giocatore/pomarolli_edoardo)| [Incandela Angela](/calciosplash_lizzana/giocatore/incandela_angela)|
 |**Edizione 2006** | [Pomarolli Federico](/calciosplash_lizzana/giocatore/pomarolli_federico)| [Ceriani Silvia](/calciosplash_lizzana/giocatore/ceriani_silvia)|
 
-## Miglior portiere
+## Miglior portiere🧤
 
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
@@ -69,7 +69,7 @@ permalink: /albo_doro/
 |**Edizione 2009** | [Amadori Emanuele](/calciosplash_lizzana/giocatore/amadori_emanuele)| [Zambanini Vanessa](/calciosplash_lizzana/giocatore/zambanini_vanessa)|
 |**Edizione 2008** | [Prezzi Matteo](/calciosplash_lizzana/giocatore/prezzi_matteo)| [Lorandi Chiara](/calciosplash_lizzana/giocatore/lorandi_chiara)|
 
-## Capocannoniere
+## Capocannoniere ⚽
 
 ||GOAL|TORNEO MASCHILE🤴🍻|GOAL|TORNEO FEMMINILE👸🍸|
 |:-----------------|
@@ -81,8 +81,8 @@ permalink: /albo_doro/
 |**Edizione 2016** | 13 |[Merighi Michele](/calciosplash_lizzana/giocatore/merighi_michele)| 14 |[Gazzini Stefania](/calciosplash_lizzana/giocatore/gazzini_stefania)|
 |**Edizione 2015** | 20 |[Stedile Carlo](/calciosplash_lizzana/giocatore/stedile_carlo)| 22 |[Gottardi Cristina](/calciosplash_lizzana/giocatore/gottardi_cristina)|
 |**Edizione 2014** | 20 |[Bertolini Andrea](/calciosplash_lizzana/giocatore/bertolini_andrea)| 21 |[Gottardi Cristina](/calciosplash_lizzana/giocatore/gottardi_cristina)|
-|**Edizione 2013** | 18 |[Stedile Carlo](/calciosplash_lizzana/giocatore/stedile_carlo)| |[Gottardi Cristina](/calciosplash_lizzana/giocatore/gottardi_cristina)|
-|**Edizione 2012** | 13  |[Stedile Carlo](/calciosplash_lizzana/giocatore/stedile_carlo)| |[Gottardi Cristina](/calciosplash_lizzana/giocatore/gottardi_cristina)|
+|**Edizione 2013** | 18 |[Stedile Carlo](/calciosplash_lizzana/giocatore/stedile_carlo)| 19 |[Gottardi Cristina](/calciosplash_lizzana/giocatore/gottardi_cristina)|
+|**Edizione 2012** | 13  |[Stedile Carlo](/calciosplash_lizzana/giocatore/stedile_carlo)| 22 |[Gottardi Cristina](/calciosplash_lizzana/giocatore/gottardi_cristina)|
 |**Edizione 2011** | 11  |[Stedile](/calciosplash_lizzana/giocatore/)| 15 |[Pomarolli](/calciosplash_lizzana/giocatore/)|
 |**Edizione 2010** | 26 |[Boscherini](/calciosplash_lizzana/giocatore/)| 28 |[Pomarolli](/calciosplash_lizzana/giocatore/)|
 |**Edizione 2009** | 16 |[Pomarolli E](/calciosplash_lizzana/giocatore/)| 21 |[Pomarolli C](/calciosplash_lizzana/giocatore/)|
