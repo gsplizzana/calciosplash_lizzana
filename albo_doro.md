@@ -4,7 +4,7 @@ title: Albo d'oro
 permalink: /albo_doro/
 ---
 ## Classifica calciatori per goal realizzati
-[MASCHILE 🍻](/calciosplash_lizzana/albo/maschile/) | [FEMMINILE 🍸](/calciosplash_lizzana/femminile/)
+[MASCHILE 🍻](/posts/maschile.markdown) | [FEMMINILE 🍸](/posts/femminile.markdown)
 
 ## Vincitori Torneo 🏆
 
