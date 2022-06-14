@@ -1,0 +1,495 @@
+{
+    "TORNEO": "2018",
+    "GENERE": "Maschili",
+    "Cavai": {
+        "RISULTATI": [
+            {
+                "Team1": "Gli Avanzi",
+                "Team2": "I Botanici",
+                "Goal1": "6",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "I Botanici",
+                "Team2": "Panze Da Bira",
+                "Goal1": "7",
+                "Goal2": "3"
+            },
+            {
+                "Team1": "Gli Avanzi",
+                "Team2": "Panze Da Bira",
+                "Goal1": "7",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "I Botanici",
+                "Team2": "Caffe' Grazia",
+                "Goal1": "1",
+                "Goal2": "4"
+            },
+            {
+                "Team1": "Caffe'\n  Grazia",
+                "Team2": "Panze Da Bira",
+                "Goal1": "9",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "Gli Avanzi",
+                "Team2": "Caffe' Grazia",
+                "Goal1": "2",
+                "Goal2": "2"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "Caffe'\n  Grazia",
+                "P": "7",
+                "F": "15",
+                "S": "3",
+                "DR": "12"
+            },
+            {
+                "Squadra": "Gli Avanzi",
+                "P": "7",
+                "F": "15",
+                "S": "4",
+                "DR": "11"
+            },
+            {
+                "Squadra": "I Botanici",
+                "P": "3",
+                "F": "10",
+                "S": "13",
+                "DR": "-3"
+            },
+            {
+                "Squadra": "Panze Da\n  Bira",
+                "P": "0",
+                "F": "3",
+                "S": "23",
+                "DR": "-20"
+            }
+        ]
+    },
+    "Cunei": {
+        "RISULTATI": [
+            {
+                "Team1": "Atletico Al\n  Bar",
+                "Team2": "Shark Attack",
+                "Goal1": "2",
+                "Goal2": "11"
+            },
+            {
+                "Team1": "Atletico Al\n  Bar",
+                "Team2": "Lizzanella's Old Sughi",
+                "Goal1": "1",
+                "Goal2": "15"
+            },
+            {
+                "Team1": "Lizzanella's\n  Old Sughi",
+                "Team2": "Positivi all'Etanolo",
+                "Goal1": "5",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Atletico Al\n  Bar",
+                "Team2": "Positivi all'Etanolo",
+                "Goal1": "7",
+                "Goal2": "4"
+            },
+            {
+                "Team1": "Shark\n  Attack",
+                "Team2": "Positivi all'Etanolo",
+                "Goal1": "9",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Shark\n  Attack",
+                "Team2": "Lizzanella's Old Sughi",
+                "Goal1": "4",
+                "Goal2": "3"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "Shark\n  Attack",
+                "P": "9",
+                "F": "24",
+                "S": "7",
+                "DR": "17"
+            },
+            {
+                "Squadra": "Lizzanella's\n  Old Sughi",
+                "P": "6",
+                "F": "23",
+                "S": "7",
+                "DR": "16"
+            },
+            {
+                "Squadra": "Atletico Al\n  Bar",
+                "P": "3",
+                "F": "10",
+                "S": "30",
+                "DR": "-20"
+            },
+            {
+                "Squadra": "Positivi\n  all'Etanolo",
+                "P": "0",
+                "F": "8",
+                "S": "21",
+                "DR": "-13"
+            }
+        ]
+    },
+    "Cavroni": {
+        "RISULTATI": [
+            {
+                "Team1": "I Modium",
+                "Team2": "Sbocca Juniors",
+                "Goal1": "6",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Mai Una\n  Gioia",
+                "Team2": "Buona La Merda",
+                "Goal1": "3",
+                "Goal2": "1"
+            },
+            {
+                "Team1": "I Modium",
+                "Team2": "Buona La Merda",
+                "Goal1": "10",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Mai Una\n  Gioia",
+                "Team2": "Sbocca Juniors",
+                "Goal1": "2",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Buona La\n  Merda",
+                "Team2": "Sbocca Juniors",
+                "Goal1": "1",
+                "Goal2": "9"
+            },
+            {
+                "Team1": "I Modium",
+                "Team2": "Mai Una Gioia",
+                "Goal1": "3",
+                "Goal2": "3"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "I Modium",
+                "P": "7",
+                "F": "19",
+                "S": "7",
+                "DR": "12"
+            },
+            {
+                "Squadra": "Mai Una\n  Gioia",
+                "P": "5",
+                "F": "8",
+                "S": "6",
+                "DR": "2"
+            },
+            {
+                "Squadra": "Sbocca\n  Juniors",
+                "P": "4",
+                "F": "13",
+                "S": "9",
+                "DR": "4"
+            },
+            {
+                "Squadra": "Buona La\n  Merda",
+                "P": "0",
+                "F": "4",
+                "S": "22",
+                "DR": "-18"
+            }
+        ]
+    },
+    "Lumazi": {
+        "RISULTATI": [
+            {
+                "Team1": "U.S. Guarna",
+                "Team2": "E Voi De Chi Se Fioi",
+                "Goal1": "7",
+                "Goal2": "1"
+            },
+            {
+                "Team1": "Pinguini\n  Trentini",
+                "Team2": "F.C. Julia",
+                "Goal1": "4",
+                "Goal2": "1"
+            },
+            {
+                "Team1": "Pinguini\n  Trentini",
+                "Team2": "U.S. Guarna",
+                "Goal1": "2",
+                "Goal2": "3"
+            },
+            {
+                "Team1": "F.C. Julia",
+                "Team2": "E Voi De Chi Se Fioi",
+                "Goal1": "6",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "F.C. Julia",
+                "Team2": "U.S. Guarna",
+                "Goal1": "4",
+                "Goal2": "1"
+            },
+            {
+                "Team1": "Pinguini\n  Trentini",
+                "Team2": "E Voi De Chi Se Fioi",
+                "Goal1": "9",
+                "Goal2": "2"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "Pinguini\n  Trentini",
+                "P": "6",
+                "F": "15",
+                "S": "6",
+                "DR": "9"
+            },
+            {
+                "Squadra": "F.C. Julia",
+                "P": "6",
+                "F": "11",
+                "S": "5",
+                "DR": "6"
+            },
+            {
+                "Squadra": "U.S. Guarna",
+                "P": "6",
+                "F": "11",
+                "S": "7",
+                "DR": "4"
+            },
+            {
+                "Squadra": "E Voi De\n  Chi Se Fioi",
+                "P": "0",
+                "F": "3",
+                "S": "22",
+                "DR": "-19"
+            }
+        ]
+    },
+    "Mussi": {
+        "RISULTATI": [
+            {
+                "Team1": "F.C.\n  Savignano",
+                "Team2": "I Ragazzi Della Via Gra",
+                "Goal1": "13",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "No S.A.V.",
+                "Team2": "Fassone & Mirabelli",
+                "Goal1": "9",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "F.C.\n  Savignano",
+                "Team2": "Fassone & Mirabelli",
+                "Goal1": "2",
+                "Goal2": "1"
+            },
+            {
+                "Team1": "No S.A.V.",
+                "Team2": "I Ragazzi Della Via Gra",
+                "Goal1": "10",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "I Ragazzi\n  Della Via Gra",
+                "Team2": "Fassone & Mirabelli",
+                "Goal1": "1",
+                "Goal2": "9"
+            },
+            {
+                "Team1": "F.C.\n  Savignano",
+                "Team2": "No S.A.V.",
+                "Goal1": "1",
+                "Goal2": "2"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "No S.A.V.",
+                "P": "9",
+                "F": "21",
+                "S": "3",
+                "DR": "18"
+            },
+            {
+                "Squadra": "F.C.\n  Savignano",
+                "P": "6",
+                "F": "16",
+                "S": "3",
+                "DR": "13"
+            },
+            {
+                "Squadra": "Fassone\n  & Mirabelli",
+                "P": "3",
+                "F": "12",
+                "S": "12",
+                "DR": "0"
+            },
+            {
+                "Squadra": "I Ragazzi\n  Della Via Gra",
+                "P": "0",
+                "F": "1",
+                "S": "32",
+                "DR": "-31"
+            }
+        ]
+    },
+    "Ruganti": {
+        "RISULTATI": [
+            {
+                "Team1": "Discepoli\n  Del Luppolo",
+                "Team2": "La Banda Biscotti",
+                "Goal1": "14",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "Fel. Lazio",
+                "Team2": "La Banda Biscotti",
+                "Goal1": "7",
+                "Goal2": "3"
+            },
+            {
+                "Team1": "La Banda\n  Biscotti",
+                "Team2": "Hellas Madonna",
+                "Goal1": "2",
+                "Goal2": "4"
+            },
+            {
+                "Team1": "Discepoli\n  Del Luppolo",
+                "Team2": "Fel. Lazio",
+                "Goal1": "2",
+                "Goal2": "0"
+            },
+            {
+                "Team1": "Discepoli\n  Del Luppolo",
+                "Team2": "Hellas Madonna",
+                "Goal1": "8",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Fel. Lazio",
+                "Team2": "Hellas Madonna",
+                "Goal1": "4",
+                "Goal2": "2"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "Discepoli\n  Del Luppolo",
+                "P": "9",
+                "F": "24",
+                "S": "2",
+                "DR": "22"
+            },
+            {
+                "Squadra": "Fel. Lazio",
+                "P": "6",
+                "F": "11",
+                "S": "7",
+                "DR": "4"
+            },
+            {
+                "Squadra": "Hellas\n  Madonna",
+                "P": "3",
+                "F": "8",
+                "S": "14",
+                "DR": "-6"
+            },
+            {
+                "Squadra": "La Banda\n  Biscotti",
+                "P": "0",
+                "F": "5",
+                "S": "25",
+                "DR": "-20"
+            }
+        ]
+    },
+    "Usei": {
+        "RISULTATI": [
+            {
+                "Team1": "Clitoriders",
+                "Team2": "Squadra Materasso",
+                "Goal1": "11",
+                "Goal2": "3"
+            },
+            {
+                "Team1": "I\n  Diversamente Lucidi",
+                "Team2": "CGB Gamberoni",
+                "Goal1": "1",
+                "Goal2": "3"
+            },
+            {
+                "Team1": "Clitoriders",
+                "Team2": "CGB Gamberoni",
+                "Goal1": "4",
+                "Goal2": "2"
+            },
+            {
+                "Team1": "Squadra\n  Materasso",
+                "Team2": "I Diversamente Lucidi",
+                "Goal1": "2",
+                "Goal2": "6"
+            },
+            {
+                "Team1": "CGB\n  Gamberoni",
+                "Team2": "Squadra Materasso",
+                "Goal1": "5",
+                "Goal2": "3"
+            },
+            {
+                "Team1": "Clitoriders",
+                "Team2": "I Diversamente Lucidi",
+                "Goal1": "3",
+                "Goal2": "1"
+            }
+        ],
+        "CLASSIFICA": [
+            {
+                "Squadra": "Clitoriders",
+                "P": "9",
+                "F": "18",
+                "S": "6",
+                "DR": "12"
+            },
+            {
+                "Squadra": "CGB\n  Gamberoni",
+                "P": "6",
+                "F": "10",
+                "S": "8",
+                "DR": "2"
+            },
+            {
+                "Squadra": "I\n  Diversamente Lucidi",
+                "P": "3",
+                "F": "8",
+                "S": "8",
+                "DR": "0"
+            },
+            {
+                "Squadra": "Squadra\n  Materasso",
+                "P": "0",
+                "F": "8",
+                "S": "22",
+                "DR": "-14"
+            }
+        ]
+    },
+    "Zorzi": {}
+}

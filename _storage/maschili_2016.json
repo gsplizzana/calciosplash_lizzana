@@ -1,1 +1,495 @@
-{"TORNEO": "2016", "GENERE": "maschili", "Cavai": {"RISULTATI": ["clandes team , babarum,4 , 1", "cacao meravigliao , titslovers,2 , 1", "titslovers , babarum,9 , 3", "cacao meravigliao , babarum,3 , 1", "titslovers , clandes team,2 , 0", "cacao meravigliao , clandes team,1 , 1"], "CLASSIFICA": ["cacao meravigliao,7,6,3,3", "titslovers,6,12,5,7", "clandes team,4,5,4,1", "babarum,0,5,16,,11"]}, "Cavroni": {"RISULTATI": ["s.c. alda fregna , mai una gioia,2 , 1", "s.c. alda fregna , sbocca juniors,8 , 0", "shark attak , mai una gioia,3 , 2", "mai una gioia , sbocca juniors,15 , 0", "sbocca juniors , shark attak,2 , 9", "s.c. alda fregna , shark attak,2 , 2"], "CLASSIFICA": ["shark attak,7,14,6,8", "s.c. alda fregna,7,12,3,9", "mai una gioia,3,18,5,13", "sbocca juniors,0,2,32,,30"]}, "Cunei": {"RISULTATI": ["dinkel team , lizzanella's old sughi,1 , 3", "lizzanella's old sughi , panze da bira,8 , 0", "dinkel team , filfs & co.,1 , 4", "panze da bira , dinkel team,2 , 8", "panze da bira , filfs & co.,1 , 5", "filfs & co. , lizzanella's old sughi,6 , 1"], "CLASSIFICA": ["filfs & co.,9,15,3,12", "lizzanella's old sughi,6,12,7,5", "dinkel team,3,10,9,1", "panze da bira,0,3,21,,18"]}, "Lumazi": {"RISULTATI": ["i fatti del giorno , nocera inferiore vive,0 , 6", "malm stoss , nocera inferiore vive,4 , 1", "i fatti del giorno , f.c. savignano,3 , 5", "malm stoss , f.c. savignano,0 , 6", "i fatti del giorno , malm stoss,0 , 7", "nocera inferiore vive , f.c. savignano,2 , 6"], "CLASSIFICA": ["f.c. savignano,9,17,5,12", "malm stoss,6,11,7,4", "nocera inferiore vive,3,9,10,,1", "i fatti del giorno,0,3,18,,15"]}, "Mussi": {"RISULTATI": ["i pini , no name,2 , 3", "f.c. julia , i pini,2 , 6", "montenegro city ramblers , no name,1 , 3", "montenegro city ramblers , i pini,2 , 5", "no name , f.c. julia,2 , 3", "montenegro city ramblers , f.c. julia,1 , 6"], "CLASSIFICA": ["i pini,6,13,7,6", "f.c. julia,6,11,9,2", "no name,6,8,6,2", "montenegro city ramblers,0,4,14,,10"]}, "Ruganti": {"RISULTATI": ["fel lazio 2.0 , i montagna,1 , 2", "esperimento 626 , i montagna,1 , 5", "modium , i montagna,6 , 1", "modium , esperimento 626,4 , 0", "fel lazio 2.0 , esperimento 626,8 , 1", "modium , fel lazio 2.0,5 , 3"], "CLASSIFICA": ["modium,9,15,4,11", "i montagna,6,8,8,0", "fel lazio 2.0,3,12,8,4", "esperimento 626,0,2,17,,15"]}, "Usei": {"RISULTATI": ["i svergoi , pokemonae,1 , 2", "pokemonae , f.c. judica,0 , 3", "ematoma , i svergoi,1 , 1", "f.c. judica , i svergoi,2 , 0", "ematoma , pokemonae,0 , 1", "f.c. judica , ematoma,1 , 2"], "CLASSIFICA": ["f.c. judica,6,6,2,4", "pokemonae,6,3,4,,1", "ematoma,4,3,3,0", "i svergoi,1,2,5,,3"]}, "Zorzi": {}}
+{
+  "TORNEO": "2016",
+  "GENERE": "maschili",
+  "Cavai": {
+    "RISULTATI": [
+      {
+        "Team1": "Clandes Team",
+        "Team2": "Babarum",
+        "Goal1": "4",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Cacao Meravigliao",
+        "Team2": "Titslovers",
+        "Goal1": "2",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Titslovers",
+        "Team2": "Babarum",
+        "Goal1": "9",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Cacao Meravigliao",
+        "Team2": "Babarum",
+        "Goal1": "3",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Titslovers",
+        "Team2": "Clandes Team",
+        "Goal1": "2",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Cacao Meravigliao",
+        "Team2": "Clandes Team",
+        "Goal1": "1",
+        "Goal2": "1"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Cacao Meravigliao",
+        "P": "7",
+        "F": "6",
+        "S": "3",
+        "DR": "3"
+      },
+      {
+        "Squadra": "Titslovers",
+        "P": "6",
+        "F": "12",
+        "S": "5",
+        "DR": "7"
+      },
+      {
+        "Squadra": "Clandes Team",
+        "P": "4",
+        "F": "5",
+        "S": "4",
+        "DR": "1"
+      },
+      {
+        "Squadra": "Babarum",
+        "P": "0",
+        "F": "5",
+        "S": "16",
+        "DR": "-11"
+      }
+    ]
+  },
+  "Cavroni": {
+    "RISULTATI": [
+      {
+        "Team1": "S.C. Alda Fregna",
+        "Team2": "Mai Una Gioia",
+        "Goal1": "2",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "S.C. Alda Fregna",
+        "Team2": "Sbocca Juniors",
+        "Goal1": "8",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Shark Attak",
+        "Team2": "Mai Una Gioia",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Mai Una Gioia",
+        "Team2": "Sbocca Juniors",
+        "Goal1": "15",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Sbocca Juniors",
+        "Team2": "Shark Attak",
+        "Goal1": "2",
+        "Goal2": "9"
+      },
+      {
+        "Team1": "S.C. Alda Fregna",
+        "Team2": "Shark Attak",
+        "Goal1": "2",
+        "Goal2": "2"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Shark Attak",
+        "P": "7",
+        "F": "14",
+        "S": "6",
+        "DR": "8"
+      },
+      {
+        "Squadra": "S.C. Alda Fregna",
+        "P": "7",
+        "F": "12",
+        "S": "3",
+        "DR": "9"
+      },
+      {
+        "Squadra": "Mai Una Gioia",
+        "P": "3",
+        "F": "18",
+        "S": "5",
+        "DR": "13"
+      },
+      {
+        "Squadra": "Sbocca Juniors",
+        "P": "0",
+        "F": "2",
+        "S": "32",
+        "DR": "-30"
+      }
+    ]
+  },
+  "Cunei": {
+    "RISULTATI": [
+      {
+        "Team1": "Dinkel Team",
+        "Team2": "Lizzanella's Old Sughi",
+        "Goal1": "1",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Lizzanella's Old Sughi",
+        "Team2": "Panze da Bira",
+        "Goal1": "8",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Dinkel Team",
+        "Team2": "Filfs & Co.",
+        "Goal1": "1",
+        "Goal2": "4"
+      },
+      {
+        "Team1": "Panze da Bira",
+        "Team2": "Dinkel Team",
+        "Goal1": "2",
+        "Goal2": "8"
+      },
+      {
+        "Team1": "Panze da Bira",
+        "Team2": "Filfs & Co.",
+        "Goal1": "1",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "Filfs & Co.",
+        "Team2": "Lizzanella's Old Sughi",
+        "Goal1": "6",
+        "Goal2": "1"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Filfs & Co.",
+        "P": "9",
+        "F": "15",
+        "S": "3",
+        "DR": "12"
+      },
+      {
+        "Squadra": "Lizzanella's Old Sughi",
+        "P": "6",
+        "F": "12",
+        "S": "7",
+        "DR": "5"
+      },
+      {
+        "Squadra": "Dinkel Team",
+        "P": "3",
+        "F": "10",
+        "S": "9",
+        "DR": "1"
+      },
+      {
+        "Squadra": "Panze da Bira",
+        "P": "0",
+        "F": "3",
+        "S": "21",
+        "DR": "-18"
+      }
+    ]
+  },
+  "Lumazi": {
+    "RISULTATI": [
+      {
+        "Team1": "I Fatti del Giorno",
+        "Team2": "Nocera Inferiore Vive",
+        "Goal1": "0",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Malmo Stoss",
+        "Team2": "Nocera Inferiore Vive",
+        "Goal1": "4",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "I Fatti del Giorno",
+        "Team2": "F.C. Savignano",
+        "Goal1": "3",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "Malmo Stoss",
+        "Team2": "F.C. Savignano",
+        "Goal1": "0",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "I Fatti del Giorno",
+        "Team2": "Malmo Stoss",
+        "Goal1": "0",
+        "Goal2": "7"
+      },
+      {
+        "Team1": "Nocera Inferiore Vive",
+        "Team2": "F.C. Savignano",
+        "Goal1": "2",
+        "Goal2": "6"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "F.C. Savignano",
+        "P": "9",
+        "F": "17",
+        "S": "5",
+        "DR": "12"
+      },
+      {
+        "Squadra": "Malmo Stoss",
+        "P": "6",
+        "F": "11",
+        "S": "7",
+        "DR": "4"
+      },
+      {
+        "Squadra": "Nocera Inferiore Vive",
+        "P": "3",
+        "F": "9",
+        "S": "10",
+        "DR": "-1"
+      },
+      {
+        "Squadra": "I Fatti del Giorno",
+        "P": "0",
+        "F": "3",
+        "S": "18",
+        "DR": "-15"
+      }
+    ]
+  },
+  "Mussi": {
+    "RISULTATI": [
+      {
+        "Team1": "I Pini",
+        "Team2": "No Name",
+        "Goal1": "2",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "F.C. Julia",
+        "Team2": "I Pini",
+        "Goal1": "2",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Montenegro City Ramblers",
+        "Team2": "No Name",
+        "Goal1": "1",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Montenegro City Ramblers",
+        "Team2": "I Pini",
+        "Goal1": "2",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "No Name",
+        "Team2": "F.C. Julia",
+        "Goal1": "2",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Montenegro City Ramblers",
+        "Team2": "F.C. Julia",
+        "Goal1": "1",
+        "Goal2": "6"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "I Pini",
+        "P": "6",
+        "F": "13",
+        "S": "7",
+        "DR": "6"
+      },
+      {
+        "Squadra": "F.C. Julia",
+        "P": "6",
+        "F": "11",
+        "S": "9",
+        "DR": "2"
+      },
+      {
+        "Squadra": "No Name",
+        "P": "6",
+        "F": "8",
+        "S": "6",
+        "DR": "2"
+      },
+      {
+        "Squadra": "Montenegro City Ramblers",
+        "P": "0",
+        "F": "4",
+        "S": "14",
+        "DR": "-10"
+      }
+    ]
+  },
+  "Ruganti": {
+    "RISULTATI": [
+      {
+        "Team1": "Fel Lazio 2.0",
+        "Team2": "I Montagna",
+        "Goal1": "1",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Esperimento 626",
+        "Team2": "I Montagna",
+        "Goal1": "1",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "Modium",
+        "Team2": "I Montagna",
+        "Goal1": "6",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Modium",
+        "Team2": "Esperimento 626",
+        "Goal1": "4",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Fel Lazio 2.0",
+        "Team2": "Esperimento 626",
+        "Goal1": "8",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Modium",
+        "Team2": "Fel Lazio 2.0",
+        "Goal1": "5",
+        "Goal2": "3"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Modium",
+        "P": "9",
+        "F": "15",
+        "S": "4",
+        "DR": "11"
+      },
+      {
+        "Squadra": "I Montagna",
+        "P": "6",
+        "F": "8",
+        "S": "8",
+        "DR": "0"
+      },
+      {
+        "Squadra": "Fel Lazio 2.0",
+        "P": "3",
+        "F": "12",
+        "S": "8",
+        "DR": "4"
+      },
+      {
+        "Squadra": "Esperimento 626",
+        "P": "0",
+        "F": "2",
+        "S": "17",
+        "DR": "-15"
+      }
+    ]
+  },
+  "Usei": {
+    "RISULTATI": [
+      {
+        "Team1": "I Svergoi",
+        "Team2": "Pokemonae",
+        "Goal1": "1",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Pokemonae",
+        "Team2": "F.C. Judica",
+        "Goal1": "0",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Ematoma",
+        "Team2": "I Svergoi",
+        "Goal1": "1",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "F.C. Judica",
+        "Team2": "I Svergoi",
+        "Goal1": "2",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Ematoma",
+        "Team2": "Pokemonae",
+        "Goal1": "0",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "F.C. Judica",
+        "Team2": "Ematoma",
+        "Goal1": "1",
+        "Goal2": "2"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "F.C. Judica",
+        "P": "6",
+        "F": "6",
+        "S": "2",
+        "DR": "4"
+      },
+      {
+        "Squadra": "Pokemonae",
+        "P": "6",
+        "F": "3",
+        "S": "4",
+        "DR": "-1"
+      },
+      {
+        "Squadra": "Ematoma",
+        "P": "4",
+        "F": "3",
+        "S": "3",
+        "DR": "0"
+      },
+      {
+        "Squadra": "I Svergoi",
+        "P": "1",
+        "F": "2",
+        "S": "5",
+        "DR": "-3"
+      }
+    ]
+  },
+  "Zorzi": {}
+}

@@ -1,1 +1,145 @@
-{"TORNEO": "2017", "GENERE": "femminili", "Pojane": {"RISULTATI": ["biancaneve sotto i nani , le lavandaie,10 , 0", "dinamo nada , beck's to the island,14 , 0", "beck's to the island , le lavandaie,3 , 2", "biancaneve sotto i nani , beck's to the island,13 , 0", "dinamo nada , le lavandaie,12 , 0", "biancaneve sotto i nani , dinamo nada,0 , 3"], "CLASSIFICA": ["dinamo nada,9,29,0,29", "biancaneve sotto i nani,6,23,3,20", "beck's to the island,3,3,29,,26", "le lavandaie,0,2,25,,23"]}, "Pantegane": {"RISULTATI": ["morevirgola , le beer,bantelle,9 , 0", "beverly inps , a.c. derbolina,10 , 3", "morevirgola , a.c. derbolina,7 , 1", "beverly inps , le beer,bantelle,7 , 1", "le beer,bantelle , a.c. derbolina,3 , 3", "beverly inps , morevirgola,1 , 4"], "CLASSIFICA": ["morevirgola,9,20,2,18", "beverly inps,6,18,8,10", "a.c. derbolina,1,7,20,,13", "le beer,bantelle,1,4,19,,15"]}, "Galinote": {}}
+{
+  "TORNEO": "2017",
+  "GENERE": "femminili",
+  "Pojane": {
+    "RISULTATI": [
+      {
+        "Team1": "Biancaneve sotto i nani",
+        "Team2": "Le lavandaie",
+        "Goal1": "10",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Dinamo nada",
+        "Team2": "Beck's to the island",
+        "Goal1": "14",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Beck's to the island",
+        "Team2": "Le lavandaie",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Biancaneve sotto i nani",
+        "Team2": "Beck's to the island",
+        "Goal1": "13",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Dinamo nada",
+        "Team2": "Le lavandaie",
+        "Goal1": "12",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Biancaneve sotto i nani",
+        "Team2": "Dinamo nada",
+        "Goal1": "0",
+        "Goal2": "3"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Dinamo nada",
+        "P": "9",
+        "F": "29",
+        "S": "0",
+        "DR": "29"
+      },
+      {
+        "Squadra": "Biancaneve sotto i nani",
+        "P": "6",
+        "F": "23",
+        "S": "3",
+        "DR": "20"
+      },
+      {
+        "Squadra": "Beck's to the island",
+        "P": "3",
+        "F": "3",
+        "S": "29",
+        "DR": "-26"
+      },
+      {
+        "Squadra": "Le lavandaie",
+        "P": "0",
+        "F": "2",
+        "S": "25",
+        "DR": "-23"
+      }
+    ]
+  },
+  "Pantegane": {
+    "RISULTATI": [
+      {
+        "Team1": "Morevirgola",
+        "Team2": "Le beer",
+        "Goal1": "9",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Beverly inps",
+        "Team2": "A.C. Derbolina",
+        "Goal1": "10",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Morevirgola",
+        "Team2": "A.C. Derbolina",
+        "Goal1": "7",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Beverly inps",
+        "Team2": "Le beer",
+        "Goal1": "7",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Le beer",
+        "Team2": "bantelle",
+        "Goal1": "3",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Beverly inps",
+        "Team2": "Morevirgola",
+        "Goal1": "1",
+        "Goal2": "4"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Morevirgola",
+        "P": "9",
+        "F": "20",
+        "S": "2",
+        "DR": "18"
+      },
+      {
+        "Squadra": "Beverly inps",
+        "P": "6",
+        "F": "18",
+        "S": "8",
+        "DR": "10"
+      },
+      {
+        "Squadra": "A.C. Derbolina",
+        "P": "1",
+        "F": "7",
+        "S": "20",
+        "DR": "-13"
+      },
+      {
+        "Squadra": "Le beer-bantelle",
+        "P": "1",
+        "F": "4",
+        "S": "19",
+        "DR": "-15"
+      }
+    ]
+  },
+  "Galinote": {}
+}

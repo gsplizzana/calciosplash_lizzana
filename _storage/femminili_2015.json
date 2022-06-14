@@ -1,1 +1,215 @@
-{"TORNEO": "2015", "GENERE": "femminili", "Galinote": {"RISULTATI": ["le porcahontas , a22,5 , 0", "jla: justice league of aperitiv , nerz,4 , 1", "nerz , a22,3 , 0", "jla: justice league of aperitiv , le porcahontas,5 , 1", "nerz , le porcahontas,1 , 2", "jla: justice league of aperitiv , a22,7 , 1"], "CLASSIFICA": ["jla: justice league of aperitiv,9,16,3,13", "le porcahontas,6,8,6,2", "nerz,3,5,6,,1", "a22,0,1,15,,14"]}, "Pantegane": {"RISULTATI": ["do birete , cika,banana,0 , 6", "tettenzampi , una quarta in quattro,4 , 3", "do birete , una quarta in quattro,1 , 8", "tettenzampi , cika,banana,1 , 4", "tettenzampi , do birete,2 , 3", "cika,banana , una quarta in quattro,0 , 0"], "CLASSIFICA": ["cika,banana,7,10,1,9", "una quarta in quattro,4,11,5,6", "tettenzampi,3,7,10,,3", "do birete,3,4,16,,12"]}, "Pegore": {"RISULTATI": ["le amiche di citt laggi , le bele united,0 , 6", "arcoiris , le scarsele,2 , 3", "le bele united , le scarsele,2 , 0", "arcoiris , le bele united,3 , 5", "arcoiris , le amiche di citt laggi,7 , 1", "le scarsele , le amiche di citt laggi,4 , 1"], "CLASSIFICA": ["le bele united,9,13,3,10", "le scarsele,6,7,5,2", "arcoiris,3,12,9,3", "le amiche di citt laggi,0,2,17,,15"]}, "Pojane": {}}
+{
+  "TORNEO": "2015",
+  "GENERE": "femminili",
+  "Galinote": {
+    "RISULTATI": [
+      {
+        "Team1": "Le porcahontas",
+        "Team2": "A22",
+        "Goal1": "5",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "JLA: Justice League of Aperitiv",
+        "Team2": "Nerz",
+        "Goal1": "4",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Nerz",
+        "Team2": "A22",
+        "Goal1": "3",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "JLA: Justice League of Aperitiv",
+        "Team2": "Le porcahontas",
+        "Goal1": "5",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Nerz",
+        "Team2": "Le porcahontas",
+        "Goal1": "1",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "JLA: Justice League of Aperitiv",
+        "Team2": "A22",
+        "Goal1": "7",
+        "Goal2": "1"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "JLA: Justice League of Aperitiv",
+        "P": "9",
+        "F": "16",
+        "S": "3",
+        "DR": "13"
+      },
+      {
+        "Squadra": "Le porcahontas",
+        "P": "6",
+        "F": "8",
+        "S": "6",
+        "DR": "2"
+      },
+      {
+        "Squadra": "Nerz",
+        "P": "3",
+        "F": "5",
+        "S": "6",
+        "DR": "-1"
+      },
+      {
+        "Squadra": "A22",
+        "P": "0",
+        "F": "1",
+        "S": "15",
+        "DR": "-14"
+      }
+    ]
+  },
+  "Pantegane": {
+    "RISULTATI": [
+      {
+        "Team1": "Do birete",
+        "Team2": "Cika",
+        "Goal1": "0",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Tettenzampi",
+        "Team2": "Una quarta in quattro",
+        "Goal1": "4",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Do birete",
+        "Team2": "Una quarta in quattro",
+        "Goal1": "1",
+        "Goal2": "8"
+      },
+      {
+        "Team1": "Tettenzampi",
+        "Team2": "Cika",
+        "Goal1": "1",
+        "Goal2": "4"
+      },
+      {
+        "Team1": "Tettenzampi",
+        "Team2": "Do birete",
+        "Goal1": "2",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Cika",
+        "Team2": "Banana",
+        "Goal1": "0",
+        "Goal2": "0"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Cika-Banana",
+        "P": "7",
+        "F": "10",
+        "S": "1",
+        "DR": "9"
+      },
+      {
+        "Squadra": "Una quarta in quattro",
+        "P": "4",
+        "F": "11",
+        "S": "5",
+        "DR": "6"
+      },
+      {
+        "Squadra": "Tettenzampi",
+        "P": "3",
+        "F": "7",
+        "S": "10",
+        "DR": "-3"
+      },
+      {
+        "Squadra": "Do birete",
+        "P": "3",
+        "F": "4",
+        "S": "16",
+        "DR": "-12"
+      }
+    ]
+  },
+  "Pegore": {
+    "RISULTATI": [
+      {
+        "Team1": "Le amiche di città laggiù",
+        "Team2": "Le bele united",
+        "Goal1": "0",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Arcoiris",
+        "Team2": "Le scarsele",
+        "Goal1": "2",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Le bele united",
+        "Team2": "Le scarsele",
+        "Goal1": "2",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Arcoiris",
+        "Team2": "Le bele united",
+        "Goal1": "3",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "Arcoiris",
+        "Team2": "Le amiche di città laggiù",
+        "Goal1": "7",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Le scarsele",
+        "Team2": "Le amiche di città laggiù",
+        "Goal1": "4",
+        "Goal2": "1"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Le bele united",
+        "P": "9",
+        "F": "13",
+        "S": "3",
+        "DR": "10"
+      },
+      {
+        "Squadra": "Le scarsele",
+        "P": "6",
+        "F": "7",
+        "S": "5",
+        "DR": "2"
+      },
+      {
+        "Squadra": "Arcoiris",
+        "P": "3",
+        "F": "12",
+        "S": "9",
+        "DR": "3"
+      },
+      {
+        "Squadra": "Le amiche di città laggiù",
+        "P": "0",
+        "F": "2",
+        "S": "17",
+        "DR": "-15"
+      }
+    ]
+  },
+  "Pojane": {}
+}

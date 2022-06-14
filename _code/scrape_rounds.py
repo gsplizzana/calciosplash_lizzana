@@ -1,16 +1,12 @@
-from bs4 import BeautifulSoup
-import requests
 import json
-from cleantext import clean
+
+import requests
+from bs4 import BeautifulSoup
+
+
+# from cleantext import clean
 
 # QUA BISOGNA METTERE A POSTO LA STRINGA CHE SCARICHIAMO DAL SITO DEL CALCIOSPLASH (CODIFICA, ETC) es. 'Una quarta in 4 ,\xa0Babybell&&1 &&12'
-
-
-def parse_text(string):
-    parsed_string = clean(string,
-                          fix_unicode=True,
-                          to_ascii=True,)
-    return parsed_string
 
 
 def get_historical_data(url):
@@ -50,16 +46,22 @@ def get_historical_data(url):
                 else:
                     if matches_flag:
                         if len(table_data) > 1:
-                            matches.append(parse_text(",".join([x.replace("\n", "").replace(
-                                "\r", "").strip() for x in table_data]).replace("-", ",")))
+                            matches.append({"Team1": table_data[0].split("-")[0].strip(),
+                                            "Team2": table_data[0].split("-")[1].strip(),
+                                            "Goal1": table_data[1].split("-")[0].strip(),
+                                            "Goal2": table_data[1].split("-")[1].strip()})
                     elif ranking_flag:
                         if len(table_data) > 1:
-                            ranking.append(parse_text(",".join([x.replace("\n", "").replace(
-                                "\r", "").strip() for x in table_data]).replace("-", ",")))
+                            ranking.append({"Squadra":table_data[0],
+                                            "P":table_data[1],
+                                            "F":table_data[2],
+                                            "S":table_data[3],
+                                            "DR":table_data[4]})
 
-        with open(f"./_storage/{url.split('_')[-1]}_{url.split('_')[2][:4]}.json", "w+") as writer:
+        with open(f"./../_storage/{url.split('_')[-1]}_{url.split('_')[2][:4]}.json", "w+") as writer:
             json.dump(data, writer)
-    except:
+    except Exception as e:
+        print(e)
         print(url)
 
 

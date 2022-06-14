@@ -4,10 +4,12 @@ title: Tornei
 permalink: /tornei/
 ---
 
-2020| [TORNEO MASCHILE](/blog/tornei/torneo_2020_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2020_femminili)
-2019| [TORNEO MASCHILE](/blog/tornei/torneo_2019_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2019_femminili)
-2018| [TORNEO MASCHILE](/blog/tornei/torneo_2018_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2018_femminili)
-2017| [TORNEO MASCHILE](/blog/tornei/torneo_2017_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2017_femminili)
-2016| [TORNEO MASCHILE](/blog/tornei/torneo_2016_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2016_femminili)
-2015| [TORNEO MASCHILE](/blog/tornei/torneo_2015_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2015_femminili)
-2014| [TORNEO MASCHILE](/blog/tornei/torneo_2014_maschili) | [TORNEO FEMMINILE](/blog/tornei/torneo_2014_femminili)
+2022| [TORNEO MASCHILE](/blog/tornei/2022/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2022/femminili/)
+2021| [TORNEO MASCHILE](/blog/tornei/2021/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2021/femminili/)
+2019| [TORNEO MASCHILE](/blog/tornei/2019/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2019/femminili/)
+2018| [TORNEO MASCHILE](/blog/tornei/2018/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2018/femminili/)
+2017| [TORNEO MASCHILE](/blog/tornei/2017/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2017/femminili/)
+2016| [TORNEO MASCHILE](/blog/tornei/2016/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2016/femminili/)
+2015| [TORNEO MASCHILE](/blog/tornei/2015/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2015/femminili/)
+2014| [TORNEO MASCHILE](/blog/tornei/2014/maschili/) | [TORNEO FEMMINILE](/blog/tornei/2014/femminili/)
+

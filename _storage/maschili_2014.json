@@ -1,1 +1,495 @@
-{"TORNEO": "2014", "GENERE": "maschili", "Cavai": {"RISULTATI": ["dog of the grape , f.c. savignano,5 , 5", "dinkel team , dog of the grape,4 , 3", "seghe e tavernello , f.c. savignano,2 , 6", "f.c. savignano , dinkel team,2 , 3", "seghe e tavernello , dog of the grape,3 , 2", "dinkel team , seghe e tavernello,3 , 3"], "CLASSIFICA": ["dinkel team,7,10,8,2", "f.c. savignano,4,13,10,3", "seghe e tavernello,4,8,11,,3", "dog of the grape,1,10,12,,2"]}, "Cavroni": {"RISULTATI": ["amigafatti , f.c. judica,0 , 4", "dolce&voltagabbana , la 'lecco' bene,5 , 2", "f.c. judica , la 'lecco' bene,4 , 2", "la 'lecco' bene , amigafatti,2 , 0", "dolce&voltagabbana , amigafatti,7 , 1", "f.c. judica , dolce&voltagabbana,2 , 2"], "CLASSIFICA": ["dolce&voltagabbana,7,14,5,9", "f.c. judica,7,10,4,6", "la 'lecco' bene,3,6,9,,3", "amigafatti,0,1,13,,12"]}, "Cunei": {"RISULTATI": ["clitoriders , bondola boys,11 , 0", "chi l'ha duro la vince , bondola boys,3 , 1", "clitoriders , anima ne(g)ra,10 , 0", "anima ne(g)ra , chi l'ha duro la vince,0 , 6", "chi l'ha duro la vince , clitoriders,2 , 2", "bondola boys , anima ne(g)ra,3 , 6"], "CLASSIFICA": ["clitoriders,7,23,2,21", "chi l'ha duro la vince,7,11,3,8", "anima ne(g)ra,3,6,19,,13", "bondola boys,0,4,20,,16"]}, "Lumazi": {"RISULTATI": ["tieni duro gianni,lee , real marra,3 , 1", "i sughi , tin tin tin tintoretto team,2 , 5", "tieni duro gianni,lee , i sughi,3 , 1", "tin tin tin tintoretto team , real marra,7 , 0", "tin tin tin tintoretto team , tieni duro gianni,lee,3 , 6", "real marra , i sughi,2 , 1"], "CLASSIFICA": ["tieni duro gianni,lee,9,12,5,7", "tin tin tin tintoretto team,6,15,8,7", "real marra,3,3,11,,8", "i sughi,0,4,10,,6"]}, "Mussi": {"RISULTATI": ["progett'one' , zuegg,5 , 2", "cointreau united , tecnica pura,0 , 6", "zuegg , cointreau united,5 , 4", "tecnica pura , zuegg,2 , 2", "progett'one' , cointreau united,2 , 2", "tecnica pura , progett'one',6 , 8"], "CLASSIFICA": ["progett'one',7,15,10,5", "tecnica pura,4,14,10,4", "zuegg,4,9,11,,2", "cointreau united,1,6,13,,7"]}, "Ruganti": {"RISULTATI": ["clandes,team , last night the bj saved my life,3 , 0", "clandes,team , maialotti volanti,3 , 0", "modium , last night the bj saved my life,10 , 2", "last night the bj saved my life , maialotti volanti,3 , 2", "maialotti volanti , modium,2 , 11", "modium , clandes,team,4 , 1"], "CLASSIFICA": ["modium,9,25,5,20", "clandes,team,6,7,4,3", "last night the bj saved my life,3,5,15,,10", "maialotti volanti,0,4,17,,13"]}, "Usei": {"RISULTATI": ["bar ru: passione rubar , gli scivoli,5 , 1", "f.c. julia , ematoma,4 , 2", "f.c. julia , bar ru: passione rubar,5 , 0", "ematoma , gli scivoli,8 , 1", "ematoma , bar ru: passione rubar,3 , 2", "gli scivoli , f.c. julia,1 , 10"], "CLASSIFICA": ["f.c. julia,9,19,3,16", "ematoma,6,13,7,6", "bar ru: passione rubar,3,7,9,,2", "gli scivoli,0,3,23,,20"]}, "Zorzi": {}}
+{
+  "TORNEO": "2014",
+  "GENERE": "maschili",
+  "Cavai": {
+    "RISULTATI": [
+      {
+        "Team1": "Dog of the grape",
+        "Team2": "F.C. Savignano",
+        "Goal1": "5",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "Dinkel Team",
+        "Team2": "Dog of the grape",
+        "Goal1": "4",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Seghe e Tavernello",
+        "Team2": "F.C. Savignano",
+        "Goal1": "2",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "F.C. Savignano",
+        "Team2": "Dinkel Team",
+        "Goal1": "2",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Seghe e Tavernello",
+        "Team2": "Dog of the grape",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Dinkel Team",
+        "Team2": "Seghe e Tavernello",
+        "Goal1": "3",
+        "Goal2": "3"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Dinkel Team",
+        "P": "7",
+        "F": "10",
+        "S": "8",
+        "DR": "2"
+      },
+      {
+        "Squadra": "F.C. Savignano",
+        "P": "4",
+        "F": "13",
+        "S": "10",
+        "DR": "3"
+      },
+      {
+        "Squadra": "Seghe e Tavernello",
+        "P": "4",
+        "F": "8",
+        "S": "11",
+        "DR": "-3"
+      },
+      {
+        "Squadra": "Dog of the grape",
+        "P": "1",
+        "F": "10",
+        "S": "12",
+        "DR": "-2"
+      }
+    ]
+  },
+  "Cavroni": {
+    "RISULTATI": [
+      {
+        "Team1": "Amigafatti",
+        "Team2": "F.C. Judica",
+        "Goal1": "0",
+        "Goal2": "4"
+      },
+      {
+        "Team1": "Dolce&Voltagabbana",
+        "Team2": "La 'Lecco' bene",
+        "Goal1": "5",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "F.C. Judica",
+        "Team2": "La 'Lecco' bene",
+        "Goal1": "4",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "La 'Lecco' bene",
+        "Team2": "Amigafatti",
+        "Goal1": "2",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Dolce&Voltagabbana",
+        "Team2": "Amigafatti",
+        "Goal1": "7",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "F.C. Judica",
+        "Team2": "Dolce&Voltagabbana",
+        "Goal1": "2",
+        "Goal2": "2"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Dolce&Voltagabbana",
+        "P": "7",
+        "F": "14",
+        "S": "5",
+        "DR": "9"
+      },
+      {
+        "Squadra": "F.C. Judica",
+        "P": "7",
+        "F": "10",
+        "S": "4",
+        "DR": "6"
+      },
+      {
+        "Squadra": "La 'Lecco' bene",
+        "P": "3",
+        "F": "6",
+        "S": "9",
+        "DR": "-3"
+      },
+      {
+        "Squadra": "Amigafatti",
+        "P": "0",
+        "F": "1",
+        "S": "13",
+        "DR": "-12"
+      }
+    ]
+  },
+  "Cunei": {
+    "RISULTATI": [
+      {
+        "Team1": "Clitoriders",
+        "Team2": "Bondola Boys",
+        "Goal1": "11",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Chi l'ha duro la vince",
+        "Team2": "Bondola Boys",
+        "Goal1": "3",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Clitoriders",
+        "Team2": "Anima Ne(g)ra",
+        "Goal1": "10",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Anima Ne(g)ra",
+        "Team2": "Chi l'ha duro la vince",
+        "Goal1": "0",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Chi l'ha duro la vince",
+        "Team2": "Clitoriders",
+        "Goal1": "2",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Bondola Boys",
+        "Team2": "Anima Ne(g)ra",
+        "Goal1": "3",
+        "Goal2": "6"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Clitoriders",
+        "P": "7",
+        "F": "23",
+        "S": "2",
+        "DR": "21"
+      },
+      {
+        "Squadra": "Chi l'ha duro la vince",
+        "P": "7",
+        "F": "11",
+        "S": "3",
+        "DR": "8"
+      },
+      {
+        "Squadra": "Anima Ne(g)ra",
+        "P": "3",
+        "F": "6",
+        "S": "19",
+        "DR": "-13"
+      },
+      {
+        "Squadra": "Bondola Boys",
+        "P": "0",
+        "F": "4",
+        "S": "20",
+        "DR": "-16"
+      }
+    ]
+  },
+  "Lumazi": {
+    "RISULTATI": [
+      {
+        "Team1": "Tieni duro Gianni",
+        "Team2": "Lee",
+        "Goal1": "3",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "I sughi",
+        "Team2": "Tin tin tin Tintoretto Team",
+        "Goal1": "2",
+        "Goal2": "5"
+      },
+      {
+        "Team1": "Tieni duro Gianni",
+        "Team2": "Lee",
+        "Goal1": "3",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Tin tin tin Tintoretto Team",
+        "Team2": "Real Marra",
+        "Goal1": "7",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Tin tin tin Tintoretto Team",
+        "Team2": "Tieni duro Gianni",
+        "Goal1": "3",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Real Marra",
+        "Team2": "I sughi",
+        "Goal1": "2",
+        "Goal2": "1"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Tieni duro Gianni-Lee",
+        "P": "9",
+        "F": "12",
+        "S": "5",
+        "DR": "7"
+      },
+      {
+        "Squadra": "Tin tin tin Tintoretto Team",
+        "P": "6",
+        "F": "15",
+        "S": "8",
+        "DR": "7"
+      },
+      {
+        "Squadra": "Real Marra",
+        "P": "3",
+        "F": "3",
+        "S": "11",
+        "DR": "-8"
+      },
+      {
+        "Squadra": "I sughi",
+        "P": "0",
+        "F": "4",
+        "S": "10",
+        "DR": "-6"
+      }
+    ]
+  },
+  "Mussi": {
+    "RISULTATI": [
+      {
+        "Team1": "Progett'one'",
+        "Team2": "Zuegg",
+        "Goal1": "5",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Cointreau United",
+        "Team2": "Tecnica Pura",
+        "Goal1": "0",
+        "Goal2": "6"
+      },
+      {
+        "Team1": "Zuegg",
+        "Team2": "Cointreau United",
+        "Goal1": "5",
+        "Goal2": "4"
+      },
+      {
+        "Team1": "Tecnica Pura",
+        "Team2": "Zuegg",
+        "Goal1": "2",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Progett'one'",
+        "Team2": "Cointreau United",
+        "Goal1": "2",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Tecnica Pura",
+        "Team2": "Progett'one'",
+        "Goal1": "6",
+        "Goal2": "8"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Progett'one'",
+        "P": "7",
+        "F": "15",
+        "S": "10",
+        "DR": "5"
+      },
+      {
+        "Squadra": "Tecnica Pura",
+        "P": "4",
+        "F": "14",
+        "S": "10",
+        "DR": "4"
+      },
+      {
+        "Squadra": "Zuegg",
+        "P": "4",
+        "F": "9",
+        "S": "11",
+        "DR": "-2"
+      },
+      {
+        "Squadra": "Cointreau United",
+        "P": "1",
+        "F": "6",
+        "S": "13",
+        "DR": "-7"
+      }
+    ]
+  },
+  "Ruganti": {
+    "RISULTATI": [
+      {
+        "Team1": "Clandes",
+        "Team2": "Team",
+        "Goal1": "3",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Clandes",
+        "Team2": "Team",
+        "Goal1": "3",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Modium",
+        "Team2": "Last night the BJ saved my life",
+        "Goal1": "10",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Last night the BJ saved my life",
+        "Team2": "Maialotti volanti",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Maialotti volanti",
+        "Team2": "Modium",
+        "Goal1": "2",
+        "Goal2": "11"
+      },
+      {
+        "Team1": "Modium",
+        "Team2": "Clandes",
+        "Goal1": "4",
+        "Goal2": "1"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Modium",
+        "P": "9",
+        "F": "25",
+        "S": "5",
+        "DR": "20"
+      },
+      {
+        "Squadra": "Clandes-Team",
+        "P": "6",
+        "F": "7",
+        "S": "4",
+        "DR": "3"
+      },
+      {
+        "Squadra": "Last night the BJ saved my life",
+        "P": "3",
+        "F": "5",
+        "S": "15",
+        "DR": "-10"
+      },
+      {
+        "Squadra": "Maialotti volanti",
+        "P": "0",
+        "F": "4",
+        "S": "17",
+        "DR": "-13"
+      }
+    ]
+  },
+  "Usei": {
+    "RISULTATI": [
+      {
+        "Team1": "Bar Ru: Passione Rubar",
+        "Team2": "Gli Scivoli",
+        "Goal1": "5",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "F.C. Julia",
+        "Team2": "Ematoma",
+        "Goal1": "4",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "F.C. Julia",
+        "Team2": "Bar Ru: Passione Rubar",
+        "Goal1": "5",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Ematoma",
+        "Team2": "Gli Scivoli",
+        "Goal1": "8",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Ematoma",
+        "Team2": "Bar Ru: Passione Rubar",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Gli Scivoli",
+        "Team2": "F.C. Julia",
+        "Goal1": "1",
+        "Goal2": "10"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "F.C. Julia",
+        "P": "9",
+        "F": "19",
+        "S": "3",
+        "DR": "16"
+      },
+      {
+        "Squadra": "Ematoma",
+        "P": "6",
+        "F": "13",
+        "S": "7",
+        "DR": "6"
+      },
+      {
+        "Squadra": "Bar Ru: Passione Rubar",
+        "P": "3",
+        "F": "7",
+        "S": "9",
+        "DR": "-2"
+      },
+      {
+        "Squadra": "Gli Scivoli",
+        "P": "0",
+        "F": "3",
+        "S": "23",
+        "DR": "-20"
+      }
+    ]
+  },
+  "Zorzi": {}
+}

@@ -1,1 +1,215 @@
-{"TORNEO": "2014", "GENERE": "femminili", "Girone\u00a0Galinote": {"RISULTATI": ["notti magiche , le amiche di citt laggi,5 , 1", "beck's to the island , le macarene,3 , 2", "beck's to the island , le amiche di citt laggi,4 , 1", "le macarene , notti magiche,0 , 7", "notti magiche , beck's to the island,2 , 2", "le amiche di citt laggi , le macarene,2 , 0"], "CLASSIFICA": ["notti magiche,7,14,3,11", "beck's to the island,7,9,5,4", "le amiche di citt laggi,3,4,9,,5", "le macarene,0,2,12,,10"]}, "Pantegane": {"RISULTATI": ["una quarta in 4 , babybell,1 , 12", "nerz ciao ciao!!! , le scarsele,2 , 2", "babybell , le scarsele,9 , 1", "nerz ciao ciao!!! , una quarta in 4,4 , 3", "babybell , nerz ciao ciao!!!,3 , 2", "le scarsele , una quarta in 4,3 , 0"], "CLASSIFICA": ["babybell,9,24,4,20", "nerz ciao ciao!!!,4,8,8,0", "le scarsele,4,6,11,,5", "una quarta in 4,0,4,19,,15"]}, "Girone\u00a0Pegore": {"RISULTATI": ["bionde! punto. , le pricipesse sui piselli,7 , 3", "ciapalabala , gotta catch'em all,3 , 0", "le pricipesse sui piselli , gotta catch'em all,10 , 1", "bionde! punto. , ciapalabala,8 , 0", "gotta catch'em all , bionde! punto.,1 , 14", "le pricipesse sui piselli , ciapalabala,4 , 4"], "CLASSIFICA": ["bionde! punto.,9,28,4,24", "le pricipesse sui piselli,4,17,12,5", "ciapalabala,4,7,11,,4", "gotta catch'em all,0,2,27,,25"]}, "Girone\u00a0Pojane": {}}
+{
+  "TORNEO": "2014",
+  "GENERE": "femminili",
+  "Galinote": {
+    "RISULTATI": [
+      {
+        "Team1": "Notti Magiche",
+        "Team2": "Le amiche di città laggiù",
+        "Goal1": "5",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Beck's to the island",
+        "Team2": "Le Macarene",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Beck's to the island",
+        "Team2": "Le amiche di città laggiù",
+        "Goal1": "4",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Le Macarene",
+        "Team2": "Notti Magiche",
+        "Goal1": "0",
+        "Goal2": "7"
+      },
+      {
+        "Team1": "Notti Magiche",
+        "Team2": "Beck's to the island",
+        "Goal1": "2",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Le amiche di città laggiù",
+        "Team2": "Le Macarene",
+        "Goal1": "2",
+        "Goal2": "0"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Notti Magiche",
+        "P": "7",
+        "F": "14",
+        "S": "3",
+        "DR": "11"
+      },
+      {
+        "Squadra": "Beck's to the island",
+        "P": "7",
+        "F": "9",
+        "S": "5",
+        "DR": "4"
+      },
+      {
+        "Squadra": "Le amiche di città laggiù",
+        "P": "3",
+        "F": "4",
+        "S": "9",
+        "DR": "-5"
+      },
+      {
+        "Squadra": "Le Macarene",
+        "P": "0",
+        "F": "2",
+        "S": "12",
+        "DR": "-10"
+      }
+    ]
+  },
+  "Pantegane": {
+    "RISULTATI": [
+      {
+        "Team1": "Una quarta in 4",
+        "Team2": "Babybell",
+        "Goal1": "1",
+        "Goal2": "12"
+      },
+      {
+        "Team1": "Nerz ciao ciao!!!",
+        "Team2": "Le Scarsele",
+        "Goal1": "2",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Babybell",
+        "Team2": "Le Scarsele",
+        "Goal1": "9",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Nerz ciao ciao!!!",
+        "Team2": "Una quarta in 4",
+        "Goal1": "4",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Babybell",
+        "Team2": "Nerz ciao ciao!!!",
+        "Goal1": "3",
+        "Goal2": "2"
+      },
+      {
+        "Team1": "Le Scarsele",
+        "Team2": "Una quarta in 4",
+        "Goal1": "3",
+        "Goal2": "0"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Babybell",
+        "P": "9",
+        "F": "24",
+        "S": "4",
+        "DR": "20"
+      },
+      {
+        "Squadra": "Nerz ciao ciao!!!",
+        "P": "4",
+        "F": "8",
+        "S": "8",
+        "DR": "0"
+      },
+      {
+        "Squadra": "Le Scarsele",
+        "P": "4",
+        "F": "6",
+        "S": "11",
+        "DR": "-5"
+      },
+      {
+        "Squadra": "Una quarta in 4",
+        "P": "0",
+        "F": "4",
+        "S": "19",
+        "DR": "-15"
+      }
+    ]
+  },
+  "Pegore": {
+    "RISULTATI": [
+      {
+        "Team1": "Bionde! Punto.",
+        "Team2": "Le pricipesse sui piselli",
+        "Goal1": "7",
+        "Goal2": "3"
+      },
+      {
+        "Team1": "Ciapalabala",
+        "Team2": "Gotta catch'em all",
+        "Goal1": "3",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Le pricipesse sui piselli",
+        "Team2": "Gotta catch'em all",
+        "Goal1": "10",
+        "Goal2": "1"
+      },
+      {
+        "Team1": "Bionde! Punto.",
+        "Team2": "Ciapalabala",
+        "Goal1": "8",
+        "Goal2": "0"
+      },
+      {
+        "Team1": "Gotta catch'em all",
+        "Team2": "Bionde! Punto.",
+        "Goal1": "1",
+        "Goal2": "14"
+      },
+      {
+        "Team1": "Le pricipesse sui piselli",
+        "Team2": "Ciapalabala",
+        "Goal1": "4",
+        "Goal2": "4"
+      }
+    ],
+    "CLASSIFICA": [
+      {
+        "Squadra": "Bionde! Punto.",
+        "P": "9",
+        "F": "28",
+        "S": "4",
+        "DR": "24"
+      },
+      {
+        "Squadra": "Le pricipesse sui piselli",
+        "P": "4",
+        "F": "17",
+        "S": "12",
+        "DR": "5"
+      },
+      {
+        "Squadra": "Ciapalabala",
+        "P": "4",
+        "F": "7",
+        "S": "11",
+        "DR": "-4"
+      },
+      {
+        "Squadra": "Gotta catch'em all",
+        "P": "0",
+        "F": "2",
+        "S": "27",
+        "DR": "-25"
+      }
+    ]
+  },
+  "Pojane": {}
+}
