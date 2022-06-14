@@ -10,7 +10,7 @@ def clean_entry(entry):
     return cleaned
 
 def load_template():
-    with open("./_storage/template.markdown", "r") as file:
+    with open("./_storage/template_gironi.markdown", "r") as file:
         template = file.read()
     file.close()
     return template
@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
     for doc in docs:
         print(f"Rendering {doc}")
-        with open(f"./_storage/{doc}.json", "r") as file:
+        with open(f"./_storage/gironi/{doc}.json", "r") as file:
             data = json.load(file)
         file.close()
         template = load_template()
