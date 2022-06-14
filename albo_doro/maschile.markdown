@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-14 17:15:38.254483
+date: 2022-06-14 21:20:34.017864
 categories: albo
 permalink: /albo/maschile
 ---
@@ -96,7 +96,7 @@ GOL|NOMINATIVO|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19
 17|Arlanch Andrea| |1|2|5| | | | | | |8|1| | | | 
 17|Bordignon Enrico| | | | | | |5|5|4|2| | | |1| | 
 17|Chtioui Nadir| | | | | | | | | | | | |6|2|3|6
-17|Dossi Andrea| | | | | | |&nbspnbsp;|4| |8|4|1| | | | 
+17|Dossi Andrea| | | | | | | |4| |8|4|1| | | | 
 17|Lovisi Michele|3|3| | | | | | | | | | | | |8|3
 17|Manconi Matteo| | | | | | | | | | | |1|2|7|4|3
 17|Prezzi Mauro|3| | | | | | | | | |2| |3| |4|5

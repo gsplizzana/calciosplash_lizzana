@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-06-14 15:27:55.665696
+date: 2022-06-14 21:23:16.657442
 categories: torneo
 permalink: /tornei/2014/maschili
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 
-## Torneo 2014 ##
+## Torneo 2019 ##
 La classifica non tiene conto dello scontro diretto
 
 # Indice #

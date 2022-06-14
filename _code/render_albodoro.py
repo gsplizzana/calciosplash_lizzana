@@ -46,6 +46,6 @@ if __name__ == "__main__":
         file.close()
         template = load_template()
         template = fill_template(data, template)
-        with open(f"./posts/{doc}.markdown", encoding="Latin-1", mode="w") as file:
+        with open(f"./albo_doro/{doc}.markdown", encoding="Latin-1", mode="w") as file:
             file.write(template)
         file.close()

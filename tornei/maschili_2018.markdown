@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-06-14 15:27:55.676698
+date: 2022-06-14 21:23:16.686450
 categories: torneo
 permalink: /tornei/2018/Maschili
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 
-## Torneo 2018 ##
+## Torneo 2019 ##
 La classifica non tiene conto dello scontro diretto
 
 # Indice #

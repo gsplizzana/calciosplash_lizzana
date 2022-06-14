@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-06-14 15:27:55.668698
+date: 2022-06-14 21:23:16.665449
 categories: torneo
 permalink: /tornei/2015/maschili
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 
-## Torneo 2015 ##
+## Torneo 2019 ##
 La classifica non tiene conto dello scontro diretto
 
 # Indice #

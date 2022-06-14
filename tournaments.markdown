@@ -4,12 +4,13 @@ title: Tornei
 permalink: /tornei/
 ---
 
-2022| [TORNEO MASCHILE](calciosplash_lizzana/tornei/2022/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2022/femminili/)
-2021| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2021/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2021/femminili/)
-2019| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2019/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2019/femminili/)
-2018| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2018/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2018/femminili/)
-2017| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2017/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2017/femminili/)
-2016| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2016/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2016/femminili/)
-2015| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2015/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2015/femminili/)
-2014| [TORNEO MASCHILE](/calciosplash_lizzana/tornei/2014/maschili/) | [TORNEO FEMMINILE](/calciosplash_lizzana/tornei/2014/femminili/)
+**Edizione 2022** | [TORNEO MASCHILE](/posts/maschili_2022.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2022.markdown)
+**Edizione 2021**| [TORNEO MASCHILE](/posts/maschili_2021.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2021.markdown)
+**Edizione 2020**| [TORNEO MASCHILE](/posts/maschili_2020.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2020.markdown)
+**Edizione 2019**| [TORNEO MASCHILE](/posts/maschili_2019.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2019.markdown)
+**Edizione 2018**| [TORNEO MASCHILE](/posts/maschili_2018.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2018.markdown)
+**Edizione 2017**| [TORNEO MASCHILE](/posts/maschili_2017.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2017.markdown)
+**Edizione 2016**| [TORNEO MASCHILE](/posts/maschili_2016.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2016.markdown)
+**Edizione 2015**| [TORNEO MASCHILE](/posts/maschili_2015.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2015.markdown)
+**Edizione 2014**| [TORNEO MASCHILE](/posts/maschili_2014.markdown) | [TORNEO FEMMINILE](/tornei/femminili_2014.markdown)
 

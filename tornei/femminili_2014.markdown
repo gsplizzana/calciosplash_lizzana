@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-06-14 15:27:55.653697
+date: 2022-06-14 21:23:16.630443
 categories: torneo
 permalink: /tornei/2014/femminili
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 
-## Torneo 2014 ##
+## Torneo 2019 ##
 La classifica non tiene conto dello scontro diretto
 
 # Indice #

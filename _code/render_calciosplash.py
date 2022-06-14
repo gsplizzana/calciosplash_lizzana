@@ -69,11 +69,11 @@ if __name__ == "__main__":
 
     for doc in docs:
         print(f"Rendering {doc}")
-        with open(f"./_storage/gironi/{doc}.json", "r") as file:
+        with open(f"./_storage/{doc}.json", "r") as file:
             data = json.load(file)
         file.close()
         template = load_template()
         template = fill_template(data, template)
-        with open(f"./posts/{doc}.markdown", encoding="Latin-1", mode="w") as file:
+        with open(f"./tornei/{doc}.markdown", encoding="Latin-1", mode="w") as file:
             file.write(template)
         file.close()
