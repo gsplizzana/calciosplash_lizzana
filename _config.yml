@@ -23,7 +23,7 @@ email: gsp_lizzana@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   IL MONDIALE SI GIOCA SUL GONFIABILE
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://chumpblocckami.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://chumpblocckami.github.io/calciosplash_lizzana/ # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: gsp_lizzana
 youtube_username: gsp_lizzana
 twitch_username: gsp_lizzana
