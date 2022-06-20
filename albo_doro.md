@@ -3,19 +3,22 @@ layout: page
 title: Albo d'oro
 permalink: /albo_doro/
 ---
+
 ## Classifica calciatori per goal realizzati
 [MASCHILE 🍻](/posts/maschile.markdown) | [FEMMINILE 🍸](/posts/femminile.markdown)
 
 ## Vincitori Torneo 🏆
 
+-------
+
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
-|**Edizione 2021** | [Marco Chizzola](/calciosplash_lizzana/squadra/clitoriders)| [Marca Chizzola](/calciosplash_lizzana/squadra/dinamo_nada)|
+|**Edizione 2021** | [Marco Chizzola](/calciosplash_lizzana/squadra/)| [Marca Chizzola](/calciosplash_lizzana/squadra/)|
 |**Edizione 2020** | COVID-19 🦠| COVID-19 🦠|
 |**Edizione 2019** | [Mai Una Gioia](/calciosplash_lizzana/squadra/mai_una_gioia)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
 |**Edizione 2018** | [I Modium](/calciosplash_lizzana/squadra/modium)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
 |**Edizione 2017** | [Gli Avanzi](/calciosplash_lizzana/squadra/avanzi)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
-|**Edizione 2016** | [ClitoRiders](/calciosplash_lizzana/squadra/clitoriders)| [Bionde! Punto](/calciosplash_lizzana/squadra/bionde_punto)|
+|**Edizione 2016** | [Clitoriders](/calciosplash_lizzana/squadra/clitoriders)| [Bionde! Punto](/calciosplash_lizzana/squadra/bionde_punto)|
 |**Edizione 2015** | [Modium](/calciosplash_lizzana/squadra/modium)| [Bionde! Punto](/calciosplash_lizzana/squadra/bionde_punto)|
 |**Edizione 2014** | [Discepoli del luppolo](/calciosplash_lizzana/squadra/discepoli_del_luppolo)| [Bionde! Punto](/calciosplash_lizzana/squadra/bionde_punto)|
 |**Edizione 2013** | [Modium](/calciosplash_lizzana/squadra/modium)| [Bionde! Punto](/calciosplash_lizzana/squadra/bionde_punto)|
@@ -30,6 +33,8 @@ permalink: /albo_doro/
 |**Edizione 2004** | [Toto' Sapore](/calciosplash_lizzana/squadra/toto_sapore)| [Slipeghe](/calciosplash_lizzana/squadra/slipeghe)|
 
 ## Miglior giocatore🥇
+
+-------
 
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
@@ -52,6 +57,8 @@ permalink: /albo_doro/
 
 ## Miglior portiere🧤
 
+-------
+
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
 |**Edizione 2021** | [Marco Chizzola](/calciosplash_lizzana/giocatore/)| [Marca Chizzola](/calciosplash_lizzana/giocatore/)|
@@ -70,6 +77,8 @@ permalink: /albo_doro/
 |**Edizione 2008** | [Prezzi Matteo](/calciosplash_lizzana/giocatore/prezzi_matteo)| [Lorandi Chiara](/calciosplash_lizzana/giocatore/lorandi_chiara)|
 
 ## Capocannoniere ⚽
+
+-------
 
 ||GOAL|TORNEO MASCHILE🤴🍻|GOAL|TORNEO FEMMINILE👸🍸|
 |:-----------------|

@@ -1,0 +1,10 @@
+.immagine_giocatori {
+    float: center;
+    height: 300px;
+    width: 200px;
+}
+.immagine_statistiche {
+    float: center;
+    height: 500px;
+    width: 800px;
+}

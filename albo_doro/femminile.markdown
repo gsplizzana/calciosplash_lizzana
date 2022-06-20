@@ -2,7 +2,7 @@
 layout: post
 date: 2022-06-14 21:20:33.999865
 categories: albo
-permalink: /albo/femminile
+permalink: /albo_doro/femminile
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 
