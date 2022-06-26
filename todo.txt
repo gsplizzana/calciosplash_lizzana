@@ -2,4 +2,4 @@
 1. Create a repo
 2. Clone locally
 3. start jekyll using **jekyll new --skip-bundle .**
-4. bundle exec jekyll serve
+4. bundle exec jekyll serve --incremental

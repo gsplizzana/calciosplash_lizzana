@@ -2,24 +2,49 @@
 layout: post
 date: DATA
 categories: giocatori
-permalink: URL_GIOCATORE
+permalink: giocatori/NOME_GIOCATORE
 ---
-<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="./../assets/giocatori.css">
 
-# NOME_COGNOME
+# NOME_GIOCATORE
+-------
 
-NOME_COGNOME (destra Adige) è un giocatore di calciosplash, di ruolo giocatore di movimento.
+NOME_GIOCATORE FRASE_ETA FRASE_SOPRANNOME FRASE_CALCIATORE FRASE_GIOCATORE FRASE CAPITANO
+FRASE_VINCITORE
 
-NOME_COGNOME|
----
-IMMAGINE|
-Soprannome |
-Nazionalità| Italia
-Altezza |
-Peso |
-Ruolo |
-Carriera|
-Squadre di club|
-2010-2020 NOME_SQUADRA 
-2021-2022 NOME_SQUADRA 
-Palmares
+Indice |
+:---:|
+<a href="#scheda">1. Scheda</a>|
+<a href="#carriera">2. Carriera</a>|
+<a href="#statistiche">3. Statistiche</a>|
+<a href="#palmarès">4. Palmares</a>|
+
+# Scheda #
+----
+
+NOME_GIOCATORE |
+|:---:|
+![NOME_GIOCATORE]("./../../assets/giocatori/NOME_GIOCATORE.jpeg){:.immagine_giocatori} |
+
+|**Soprannome** | SOPRANNOME
+|**Nazionalità** | NAZIONALITA
+|**Ruolo** | TIPO_GIOCATORE
+
+# Carriera #
+---- 
+
+CARRIERA
+
+# Statistiche #
+----
+
+STATISTICHE
+
+![statistiche]("./../../assets/statistiche/NOME_GIOCATORE.png){:.immagine_statistiche} 
+
+## Palmarès #
+----
+
+PALMARES
+
+

@@ -4,9 +4,6 @@ title: Albo d'oro
 permalink: /albo_doro/
 ---
 
-## Classifica calciatori per goal realizzati
-[MASCHILE 🍻](/posts/maschile.markdown) | [FEMMINILE 🍸](/posts/femminile.markdown)
-
 ## Vincitori Torneo 🏆
 
 -------

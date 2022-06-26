@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2022-06-14 21:20:33.999865
-categories: albo
-permalink: /albo_doro/femminile
+categories: gspedia
+permalink: gspedia/marcatori_femminile
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 
