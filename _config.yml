@@ -11,7 +11,7 @@ twitter_username: gsplizzana
 
 encoding: UTF-8
 
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-relative-links
