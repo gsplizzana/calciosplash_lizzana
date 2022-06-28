@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2019-08-18 11:40:00
+categories: partite
+permalink: /torneo/2019/116
+---
+**Girone**: 1008
+
+Data: 2019-08-18 11:40:00
+
+| | I Modium | S.S. Tecnica Pura |
+|:-----:|-----|-----|
+Risultato|4|3
+Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Edoardo Pomarolli (Il Bello Della Piof)<br/>⚽ Marco Sartorelli (Il Playboy Della Busa)|⚽⚽ Mirco Salvetti<br/><br/>⚽ Matteo Azzolini<br/>
+Autogoals|⛔ Federico Pomarolli (Il Principe Guerriero)|
+Falli|1|4
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Marco Sartorelli (Il Playboy Della Busa)<br/>|⭐⭐ Mirco Salvetti<br/>
+Miglior Portiere|⭐ Riccardo Versini (La Pertica Dela Piof)<br/>|

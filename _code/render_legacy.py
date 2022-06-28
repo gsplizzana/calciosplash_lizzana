@@ -6,7 +6,7 @@ def make_dettagli(anno, index, document):
     dettagli = ["---", "layout: post", f"date: {document['data']}", "categories: partite", f"permalink: /torneo/{anno}/{index}", "---"]
     dettagli.append(f'**Girone**: {document["gironi"]}\n')
     dettagli.append(f'Data: {document["data"]}\n')
-    dettagli.append(f'| | {document["squadra_1"]} | {document["squadra_2"]} |')
+    dettagli.append(f'| | {document["squadra_1"].rstrip()} | {document["squadra_2"].rstrip()} |')
     dettagli.append("|:-----:|-----|-----|")
     dettagli.append("|".join(["Risultato", str(document["gol_squadra_1"]), str(document["gol_squadra_2"])]))
     dettagli.append("|".join(["Goals", "<br/>".join([f"{'⚽' * d} {k}" for k, d in eval(document["goleador_1"]).items()]),
@@ -26,7 +26,7 @@ def make_dettagli(anno, index, document):
         file.write(dettagli)
 
 def render_calciosplash(anno):
-    path = f"./../legacy/calciosplash_{anno}/torneo_{anno}.json"
+    path = f"./../_legacy/calciosplash_{anno}/torneo_{anno}.json"
     with open(path, "r") as file:
         data = json.load(file)
 
@@ -38,11 +38,11 @@ def render_calciosplash(anno):
         try:
             link = f"[Info](/calciosplash_lizzana/torneo/{anno}/{index})"
             genere = "🍻" if document["genere_gironi"] == 1 else "🍸"
-            row = [index, document["gironi"], f"{document['data']}", f'{document["squadra_1"]} - {document["squadra_2"]}',
+            row = [index, document["gironi"], f"{document['data']}", f'{document["squadra_1"].rstrip()} - {document["squadra_2"].rstrip()}',
                    f'{document["gol_squadra_1"]} - {document["gol_squadra_2"]}', genere, link]
             markdown.append("| ".join([str(x) for x in row]))
-            if anno ==2019 or anno == 2018:
-                make_dettagli(anno,document,index)
+            #if anno == 2019 or anno == 2018:
+            #    make_dettagli(anno,index,document)
         except Exception as e:
             print(e)
 

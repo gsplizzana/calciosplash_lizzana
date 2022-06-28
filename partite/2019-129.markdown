@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2019-08-18 19:00:00
+categories: partite
+permalink: /torneo/2019/129
+---
+**Girone**: 1002
+
+Data: 2019-08-18 19:00:00
+
+| | I Montagna | I Modium |
+|:-----:|-----|-----|
+Risultato|3|4
+Goals|⚽ Federico Andreis (Bel Ragazzo)<br/>⚽ Marco Sala (Cane Rognoso)|⚽⚽ Marco Sartorelli (Il Playboy Della Busa)<br/>
+Autogoals|⛔ Marco Sala (Cane Rognoso)|⛔ Andrea Bertolini<br/><br/>⛔ Edoardo Pomarolli (Il Bello Della Piof)<br/>
+Falli|3|3
+Gialli|Federico Andreis (Bel Ragazzo)<br/>Francesco Russo (Il Falso Balcanico)|
+Rossi||
+Miglior Giocatore||⭐ Luca Barozzi (Lupin)<br/><br/>⭐⭐ Marco Sartorelli (Il Playboy Della Busa)<br/>
+Miglior Portiere|⭐ Daniele Dalbosco<br/>|⭐⭐ Riccardo Versini (La Pertica Dela Piof)<br/>

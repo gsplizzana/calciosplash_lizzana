@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2019-08-16 16:00:00
+categories: partite
+permalink: /torneo/2019/25
+---
+**Girone**: H - Zorzi
+
+Data: 2019-08-16 16:00:00
+
+| | Sbarx | Fel Lazio |
+|:-----:|-----|-----|
+Risultato|3|7
+Goals|⚽ Nicholas Marzadro<br/>⚽ Alex Manica<br/>⚽ Simone Miorelli|⚽⚽⚽ Andrea Gober (Scintillio)<br/><br/>⚽⚽ Manuel Cescatti (Il Bolscevico)<br/><br/>⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)<br/><br/>⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)<br/>
+Autogoals||
+Falli|0|2
+Gialli||
+Rossi||
+Miglior Giocatore||⭐⭐⭐ Andrea Gober (Scintillio)<br/>
+Miglior Portiere||⭐⭐⭐ Matteo Pilati (Ponzio Pilati)<br/>

@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2018-08-19 22:30:00
+categories: partite
+permalink: /torneo/2018/134
+---
+**Girone**: 1001
+
+Data: 2018-08-19 22:30:00
+
+| | Discepoli Del Luppolo | I Modium |
+|:-----:|-----|-----|
+Risultato|2|3
+Goals|⚽⚽ Michele Bertolini (Marco Columbro)|⚽⚽ Edoardo Pomarolli (Il bello della piof)<br/><br/>⚽ Federico Pomarolli (Il principe guerriero)<br/>
+Autogoals||
+Falli|4|2
+Gialli||
+Rossi||
+Miglior Giocatore||⭐⭐⭐ Federico Pomarolli (Il principe guerriero)<br/>
+Miglior Portiere||

@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2018-08-19 10:00:00
+categories: partite
+permalink: /torneo/2018/112
+---
+**Girone**: 1008
+
+Data: 2018-08-19 10:00:00
+
+| | CGB Gamberoni | Titslovers |
+|:-----:|-----|-----|
+Risultato|3|5
+Goals|⚽   Autogol<br/>⚽ Luca Perenzoni (Il Lettone)<br/>⚽ Gabriele Gottardi|⚽⚽ Federico Mortillaro (Morte Nera)<br/><br/>⚽ Stefano Tettamanti (Batman)<br/>
+Autogoals||⛔ Federico Mortillaro (Morte Nera)<br/><br/>⛔ Michele Parisi (Ron Weasley)<br/>
+Falli|0|1
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Sebastiano Zoller <br/>|⭐ Marco Maffei (Il Pranzo è Servito)<br/><br/>⭐ Michele Parisi (Ron Weasley)<br/>
+Miglior Portiere||

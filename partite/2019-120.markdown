@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2019-08-18 15:40:00
+categories: partite
+permalink: /torneo/2019/120
+---
+**Girone**: 1004
+
+Data: 2019-08-18 15:40:00
+
+| | I Modium | Pinguini Trentini |
+|:-----:|-----|-----|
+Risultato|3|0
+Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Federico Pomarolli (Il Principe Guerriero)<br/>⚽ Andrea Bertolini|
+Autogoals||
+Falli|2|2
+Gialli||
+Rossi||
+Miglior Giocatore|⭐⭐ Luca Barozzi (Lupin)<br/>|
+Miglior Portiere|⭐ Andrea Bertolini<br/>|⭐⭐ Leonardo Ceschini (Pan Bauletto)<br/>

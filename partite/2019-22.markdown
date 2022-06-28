@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2019-08-15 23:00:00
+categories: partite
+permalink: /torneo/2019/22
+---
+**Girone**: A - Cavai
+
+Data: 2019-08-15 23:00:00
+
+| | Mediaser.T | The Periti Informatici |
+|:-----:|-----|-----|
+Risultato|15|0
+Goals|⚽⚽⚽⚽⚽⚽⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/>⚽⚽⚽⚽ Davide Raffaelli (Giraffa Di Frassino)<br/>⚽⚽⚽ Andrea Anzelini<br/>⚽ Matteo Mazzola|
+Autogoals||
+Falli|2|3
+Gialli||
+Rossi||
+Miglior Giocatore|⭐⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>|
+Miglior Portiere||

@@ -7,7 +7,7 @@ permalink: /tornei/
 ## **Edizione 2022** 
 ---
 
-Vincitori Maschile| Clitoriders
+Vincitori Maschile| To be defined
 Vincitori Femminile| To be defined
 [TORNEO](/calciosplash_lizzana/torneo/2022)| [RECAP](/calciosplash_lizzana/recap/2022)
 
