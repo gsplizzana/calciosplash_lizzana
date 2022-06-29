@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2022-06-14 21:20:34.017864
-categories: gspedia
-permalink: gspedia/marcatori_maschile
+categories: albo_doro
+permalink: albo_doro/marcatori_maschile
 ---
 <link rel="stylesheet" href="../../assets/style.css">
 

@@ -1,55 +1,45 @@
 ---
 layout: post
-date: 2022-06-14 21:20:33.999865
-categories: giocatori
-permalink: giocatori/raffaelli_davide
+date: 2022-06-29 11:32:06.367073
+categories: torneo
+permalink: /giocatore/raffaelli_davide/
 ---
-<link rel="stylesheet" href="./../assets/giocatori.css">
+<link rel='stylesheets' href='./../assets/giocatori.css'>
 
-# RAFFAELLI DAVIDE
--------
+|                           Raffaelli Davide (Giraffa di Frassino)                            |
+|:-------------------------------------------------------------------------------------------:|
+| ![raffaelli_davide]('./../../assets/giocatori/raffaelli_davide.jpeg)'{:.immagine_giocatori} |
 
-Raffelli Davide (Destra Adige, metà anni 90), soprannominato *Giraffa di Frassino*,  è un calciatore italiano, giocatore di movimento dei MediaserT, di cui è capitano.
 
-Indice |
-:---:|
-<a href="#scheda">1. Scheda</a>|
-<a href="#carriera">2. Carriera</a>|
-<a href="#statistiche">3. Statistiche</a>|
-<a href="#palmarès">4. Palmares</a>|
-
-# Scheda #
+## Carriera
 ----
 
-RAFFAELLI DAVIDE |
-|:---:|
-![raffaelli_davide]("./../../assets/giocatori/raffaelli_davide.jpeg){:.immagine_giocatori} |
+|Anno|Squadra|Soprannome|
+|:---:|---|---|
+|2019|Mediaser.T|Giraffa Di Frassino|
+|2018|No S.A.V.|Giraffa di Frassino|
+|2017|Last minute||
+|2016|Pokemonae||
+|2016|Pokemonae||
+|2015|Martzial cygnorelli||
+|2014|Cointreau United||
 
-|**Soprannome** | Giraffa di Frassino
-|**Nazionalità** | Destra Adige 
-|**Ruolo** | Giocatore di movimento 
 
-# Carriera #
----- 
-
-**2015-2017** | MediaserT
-**2018-2019** | No S.A.V. 
-**2019-2022** | MediaserT 
-
-# Statistiche #
+## Goal
 ----
 
-|**2015** | 4
-|**2016** | 1
-|**2017** | 4
-|**2018** | 4
-|**2019** | 9
+| |2019|2018|2017|2016|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|9|4|4|1|1|4|0|23|
+|Autogoal|0|0|0|0|0|0|0|0|
 
-![statistiche]("./../../assets/statistiche/raffaelli_davide.png){:.immagine_statistiche} 
 
-## Palmarès #
+## Statistiche
 ----
 
-- 🎗️ 2019: Quarti di finale
-
-
+| |2019|2018|2017|2016|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|3|1|0|2|2|0|1|9|
+|Stelle|6|1|0|2|2|0|1|12|

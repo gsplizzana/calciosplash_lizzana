@@ -116,7 +116,8 @@ def render_player_page(nome):
 
 
 if __name__ == "__main__":
-    giocatori = ["Giordani Nicolas","Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide","De Zambotti Giacomo","Di Meo Samuel",
+    giocatori = ["Raffaelli Davide",
+                "Giordani Nicolas","Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide","De Zambotti Giacomo","Di Meo Samuel",
                  "Ceschini Leonardo", "Barbiero Riccardo","Miorandi Emanuele",
                  "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco","Pizzini Stefano"]
     for giocatore in tqdm(giocatori, desc="rendering players..."):

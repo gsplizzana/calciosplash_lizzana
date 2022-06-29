@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Giocatori
-permalink: /giocatori
+permalink: /giocatori/
 ---
 
 
