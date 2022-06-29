@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2016-08-14 12:20:00
+categories: partite
+permalink: /torneo/2016/114
+---
+**Girone**: 1008
+
+Data: 2016-08-14 12:20:00
+
+| | Clitoriders | Pokemonae |
+|:-----:|-----|-----|
+Risultato|3|1
+Goals|⚽ Michele Merighi|⚽   Autogol<br/>
+Autogoals|⛔ Andrea Giordani<br/>⛔ Stefano Galvagni|
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Andrea Giordani<br/><br/>⭐ Michele Merighi<br/>|⭐ Leonardo Parisi<br/>
+Miglior Portiere||

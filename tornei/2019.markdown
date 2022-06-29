@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-28 21:58:05.454287
+date: 2022-06-29 11:22:10.537838
 categories: torneo
 permalink: /torneo/2019/
 ---

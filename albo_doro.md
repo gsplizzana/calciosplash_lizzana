@@ -4,6 +4,8 @@ title: Albo d'oro
 permalink: /albo_doro/
 ---
 
+**CLASSIFICA MARCATORI** | [MASCHILE 🍻](/gspedia/marcatori_maschile.markdown) | [FEMMINILE 🍸](/gspedia/marcatori_femminile.markdown) 
+
 ## Vincitori Torneo 🏆
 
 -------

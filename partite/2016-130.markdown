@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2016-08-14 22:30:00
+categories: partite
+permalink: /torneo/2016/130
+---
+**Girone**: 1001
+
+Data: 2016-08-14 22:30:00
+
+| | Clitoriders | I Montagna |
+|:-----:|-----|-----|
+Risultato|2|1
+Goals|⚽⚽ Michele Merighi|⚽ Omar Mastroiacovo<br/>
+Autogoals||
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Michele Merighi<br/><br/>⭐ Stefano Tita<br/>|⭐ Omar Mastroiacovo<br/>
+Miglior Portiere||

@@ -42,7 +42,7 @@ def render_calciosplash(anno):
                    f'{document["gol_squadra_1"]} - {document["gol_squadra_2"]}', genere, link]
             markdown.append("| ".join([str(x) for x in row]))
             #if anno == 2019 or anno == 2018:
-            #    make_dettagli(anno,index,document)
+            make_dettagli(anno,index,document)
         except Exception as e:
             print(e)
 

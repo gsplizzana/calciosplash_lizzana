@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2015-08-16 16:00:00
+categories: partite
+permalink: /torneo/2015/123
+---
+**Girone**: 1004
+
+Data: 2015-08-16 16:00:00
+
+| | Tecnica pura | Filfs & Co. |
+|:-----:|-----|-----|
+Risultato|1|4
+Goals|⚽ Luca Dellagiacoma|⚽⚽ Andrea Barozzi<br/><br/>⚽ Matteo Manconi<br/><br/>⚽ Flavio Cattoi<br/>
+Autogoals||
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Alessandro Fait<br/>|⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>
+Miglior Portiere||

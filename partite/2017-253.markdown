@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2017-08-13 17:30:00
+categories: partite
+permalink: /torneo/2017/253
+---
+**Girone**: 1002
+
+Data: 2017-08-13 17:30:00
+
+| | Gli avanzi | I modium |
+|:-----:|-----|-----|
+Risultato|2|1
+Goals|⚽ Matteo Manconi|⚽ Federico Pomarolli<br/>
+Autogoals|⛔ Gianluca Veneri |
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Michele Ruele<br/><br/>⭐ Gianluca Veneri <br/>|⭐ Massimo Chiodini <br/>
+Miglior Portiere||

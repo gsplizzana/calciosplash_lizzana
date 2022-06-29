@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2016-08-14 20:30:00
+categories: partite
+permalink: /torneo/2016/94
+---
+**Girone**: 1000
+
+Data: 2016-08-14 20:30:00
+
+| | Sorpresa | Sorpresa |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore||
+Miglior Portiere||

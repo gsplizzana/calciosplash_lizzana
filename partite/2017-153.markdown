@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2017-08-11 18:00:00
+categories: partite
+permalink: /torneo/2017/153
+---
+**Girone**: A - Cavai
+
+Data: 2017-08-11 18:00:00
+
+| | Pinguini trentini | Olympia |
+|:-----:|-----|-----|
+Risultato|2|1
+Goals|⚽ Alessio Farinati<br/>⚽ Matteo Brigo|⚽ Marco Miotto<br/>
+Autogoals||
+Falli||
+Gialli|Alessio Farinati<br/>Niccolò Nistri|Marco Miotto<br/>Matteo Bazzanella
+Rossi||
+Miglior Giocatore||
+Miglior Portiere||

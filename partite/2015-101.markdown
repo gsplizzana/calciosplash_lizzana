@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2015-08-15 21:00:00
+categories: partite
+permalink: /torneo/2015/101
+---
+**Girone**: 1008
+
+Data: 2015-08-15 21:00:00
+
+| | Modium | Vsop |
+|:-----:|-----|-----|
+Risultato|5|0
+Goals|⚽⚽ Andrea Bertolini<br/>⚽⚽ Edoardo Pomarolli<br/>⚽   Autogol|
+Autogoals||
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Leonardo Ceschini<br/><br/>⭐ Edoardo Pomarolli<br/>|⭐ Corrado Larcher<br/>
+Miglior Portiere||

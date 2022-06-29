@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2016-08-14 11:20:00
+categories: partite
+permalink: /torneo/2016/110
+---
+**Girone**: 1008
+
+Data: 2016-08-14 11:20:00
+
+| | I Pini | I Montagna |
+|:-----:|-----|-----|
+Risultato|2|3
+Goals|⚽ Luca Tonolli<br/>⚽ Giacomo Saccani|⚽⚽ Omar Mastroiacovo<br/><br/>⚽ Michele Bertolini<br/>
+Autogoals||
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Matteo Franchini<br/>|⭐⭐ Daniele Dalbosco<br/>
+Miglior Portiere||

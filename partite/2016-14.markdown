@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2016-08-11 22:00:00
+categories: partite
+permalink: /torneo/2016/14
+---
+**Girone**: Lumazi
+
+Data: 2016-08-11 22:00:00
+
+| | Malmö Stoss | Nocera Inferiore Vive |
+|:-----:|-----|-----|
+Risultato|4|1
+Goals|⚽⚽ Giulio Barozzi<br/>⚽ Federico Folchini<br/>⚽ Sebastiano Azzolini|⚽ Giovanni Bertolini<br/>
+Autogoals||
+Falli||
+Gialli||
+Rossi||
+Miglior Giocatore|⭐ Sebastiano Azzolini<br/>|
+Miglior Portiere||
